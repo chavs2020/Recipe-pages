@@ -1,0 +1,35 @@
+/* This page will have the format structures and layout for the Pie html page. */
+h1, h2{
+    font-family: Lucida Sans Unicode, "Helvetica", Aerial;
+}
+h1, h2{ 
+    color: rgb(164, 164, 0);
+    background-color: rgb(240, 240, 240);
+}
+
+h1{
+    text-align:center;
+    font-size:22pt;
+    font-weight:bold;
+
+}
+h2{
+    text-align:left;
+    font-size:18pt;
+}
+h1,h2{text-decoration: underline;
+
+}
+body{
+    color:#404040;
+    background-color: white;
+}
+
+body{ 
+    font-size:11pt;
+
+}
+body{font-family: Georgia, "Garamond", Serif;}
+.comment1{
+    background-color: yellow;
+}
